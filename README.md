@@ -1,4 +1,4 @@
-git push --all <Classroom-Federico>
+git push --all <Fundamentos-de-git-arfrei>
 ![](https://i.pinimg.com/474x/9f/0b/0d/9f0b0d437bbf755b1bf227d4afa31eca.jpg)
 
 # My recent experience with GitHub
