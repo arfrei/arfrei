@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![](https://i.pinimg.com/474x/9f/0b/0d/9f0b0d437bbf755b1bf227d4afa31eca.jpg)
+
+# My recent experience with GitHub
+
+Hi professor, I hope you liked the kitten that I attached just for you, wishing you a great day. 
+About my experience with this platform, I still find myself ***a little bit*** confused with some of it's sections and options (for example, how to create a README file), but I understand the importance of it, specially with the developer community. One as a programmer in process can truly learn from other users around the world, and in the same way, I can share my projects for others who might be interested. Even in our context, it's a great way of communication between students and professor.
+This thing of *markdown* is impressive, there are a lot of things to learn with respect of styling, so I will try my best in this semester to improve my knowledge. 
+
 
 <!--
 **arfrei/arfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
